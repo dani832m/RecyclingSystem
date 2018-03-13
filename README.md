@@ -1,6 +1,8 @@
 ## Recycling System
 
-#### Description of the exercise:
+**Authors:** Daniel Lyck, Mathias Elholm, Sebastian Ougter, Mads Dideriksen.
+
+### Description of the exercise:
 
 There a three different types of bottle or cans:
 
