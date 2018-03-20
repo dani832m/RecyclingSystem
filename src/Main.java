@@ -58,6 +58,7 @@ public class Main {
         System.out.println("Antal A pant leveret: " + pantAcount + " enheder.");
         System.out.println("Antal B pant leveret: " + pantBcount + " enheder.");
         System.out.println("Antal C pant leveret: " + pantCcount + " enheder.");
+        
         System.out.println("\nDu har samlet leveret flasker for: " + totalPantValue + " kroner.");
         System.out.println("\nTak fordi du anvendte automaten!");
     }

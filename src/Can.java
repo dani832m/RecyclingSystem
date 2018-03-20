@@ -32,5 +32,4 @@ public class Can {
     public String toString() {
         return "CAN\nDeposit: " + deposit + "\nValue: " + value + "\nDescription: " + description;
     }
-
 }
